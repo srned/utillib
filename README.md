@@ -13,4 +13,14 @@ returning:alternate
 Loaded plugin from: 'plugins/alternate.so'
 Given:ReturnAlternaTeString,Manipulated:RtrAtraetig
 
+## Related Files
+plugin_main.c
+plugin_discovery.c
+plugin_manager.c
+plugins/*
+
+## Credits
+http://eli.thegreenplace.net/2012/08/24/plugins-in-c/
+
+
 
